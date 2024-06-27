@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Development and DSA**
 
-- 📫 How to reach me **arnav.thakare@gmail.com**
+- 📫 How to reach me **arnav.thakare2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
