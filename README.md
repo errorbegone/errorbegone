@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnav Thakare</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Web Developement.**
 
-- 💬 Ask me about **Development and DSA**
+- 💬 Ask me about **Development and DSA.**
 
-- 📫 How to reach me **arnav.thakare2003@gmail.com**
+- 📫 How to reach me **arnav.thakare2003@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
